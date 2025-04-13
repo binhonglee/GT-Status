@@ -11,17 +11,17 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /GT-Status
+  cname: status.globetrotte.com
+  # baseUrl: /GT-Status
   logoUrl: https://globetrotte.com/favicon.svg
-  name: GlobeTrotte Status
-  introTitle: "GlobeTrotte Status"
-  introMessage: Status
-  navbar:
-    - title: GlobeTrotte
-      href: https://globetrotte.com
-    - title: Status
-      href: /
+  name: Status
+  introTitle: ""
+  introMessage: Operational status for all GlobeTrotte services
+  # navbar:
+  #   - title: GlobeTrotte
+  #     href: https://globetrotte.com
+  #   - title: Status
+  #     href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

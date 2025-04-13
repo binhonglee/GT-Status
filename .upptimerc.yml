@@ -17,9 +17,11 @@ status-website:
   name: Status
   introTitle: ""
   introMessage: Operational status for all GlobeTrotte services
-  # navbar:
-  #   - title: GlobeTrotte
-  #     href: https://globetrotte.com
+  favicon: https://globetrotte.com/favicon.ico
+  faviconSvg: https://globetrotte.com/favicon.svg
+  navbar:
+    - title: Home
+      href: https://globetrotte.com
   #   - title: Status
   #     href: /
 

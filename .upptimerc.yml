@@ -15,8 +15,8 @@ status-website:
   baseUrl: /GT-Status
   logoUrl: https://globetrotte.com/favicon.svg
   name: GlobeTrotte Status
-  introTitle: ""
-  introMessage: 
+  introTitle: "GlobeTrotte Status"
+  introMessage: Status
   navbar:
     - title: GlobeTrotte
       href: https://globetrotte.com

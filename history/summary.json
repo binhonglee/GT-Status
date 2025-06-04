@@ -4,10 +4,10 @@
     "url": "https://api.globetrotte.com/api/passwd",
     "icon": "https://icons.duckduckgo.com/ip3/api.globetrotte.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 245,
@@ -16,6 +16,7 @@
     "timeMonth": 246,
     "timeYear": 245,
     "dailyMinutesDown": {
+      "2025-06-04": 1,
       "2025-04-20": 16
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://globetrotte.com",
     "icon": "https://icons.duckduckgo.com/ip3/globetrotte.com.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
@@ -35,16 +36,18 @@
     "timeWeek": 186,
     "timeMonth": 193,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-04": 1
+    }
   },
   {
     "name": "AI Agent",
     "url": "https://api.globetrotte.com/api/agent_status",
     "icon": "https://icons.duckduckgo.com/ip3/api.globetrotte.com.ico",
     "slug": "ai-agent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +56,8 @@
     "timeWeek": 39,
     "timeMonth": 39,
     "timeYear": 40,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-04": 0
+    }
   }
 ]

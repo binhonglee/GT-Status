@@ -29,17 +29,27 @@
     "icon": "https://icons.duckduckgo.com/ip3/globetrotte.com.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.19%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "48.65%",
+    "uptimeMonth": "88.18%",
+    "uptimeYear": "97.19%",
     "time": 213,
-    "timeDay": 187,
+    "timeDay": 185,
     "timeWeek": 282,
     "timeMonth": 260,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-21": 20,
+      "2025-08-20": 234,
+      "2025-08-19": 1440,
+      "2025-08-18": 1440,
+      "2025-08-17": 1352,
+      "2025-08-16": 674,
+      "2025-08-15": 16,
+      "2025-07-14": 38,
+      "2025-06-04": 58
+    }
   },
   {
     "name": "AI Agent",
@@ -47,16 +57,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.globetrotte.com.ico",
     "slug": "ai-agent",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.93%",
     "time": 45,
-    "timeDay": 45,
+    "timeDay": 44,
     "timeWeek": 54,
     "timeMonth": 50,
     "timeYear": 45,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-21": 20,
+      "2025-07-14": 38,
+      "2025-06-29": 15,
+      "2025-06-04": 50
+    }
   }
 ]

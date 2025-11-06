@@ -1,7 +1,7 @@
 url: https://api.globetrotte.com/api/passwd
-status: up
-code: 200
-responseTime: 677
-lastUpdated: 2025-11-06T11:31:16.283Z
+status: down
+code: 502
+responseTime: 317
+lastUpdated: 2025-11-06T13:03:23.448Z
 startTime: 2025-04-13T05:04:35.444Z
 generator: Upptime <https://github.com/upptime/upptime>

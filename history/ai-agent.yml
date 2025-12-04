@@ -1,7 +1,7 @@
 url: https://api.globetrotte.com/api/agent_status
-status: down
-code: 502
-responseTime: 25
-lastUpdated: 2025-12-04T15:41:26.243Z
+status: up
+code: 200
+responseTime: 39
+lastUpdated: 2025-12-04T16:48:48.799Z
 startTime: 2025-04-13T05:04:36.361Z
 generator: Upptime <https://github.com/upptime/upptime>

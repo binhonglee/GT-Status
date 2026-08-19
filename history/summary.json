@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "61.37%",
     "time": 302,
-    "timeDay": 210,
+    "timeDay": 213,
     "timeWeek": 258,
-    "timeMonth": 350,
+    "timeMonth": 349,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2025-08-21": 21,
@@ -180,14 +180,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/globetrotte.com.ico",
     "slug": "web",
     "status": "down",
-    "uptime": "83.44%",
+    "uptime": "83.43%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.86%",
-    "uptimeMonth": "94.22%",
+    "uptimeWeek": "73.95%",
+    "uptimeMonth": "94.01%",
     "uptimeYear": "78.44%",
     "time": 219,
     "timeDay": 119,
-    "timeWeek": 191,
+    "timeWeek": 189,
     "timeMonth": 238,
     "timeYear": 213,
     "dailyMinutesDown": {
@@ -273,7 +273,7 @@
       "2026-01-29": 1440,
       "2026-01-28": 540,
       "2026-07-18": 53,
-      "2026-08-19": 719,
+      "2026-08-19": 810,
       "2026-08-18": 1440,
       "2026-08-17": 375
     }
@@ -291,7 +291,7 @@
     "uptimeYear": "61.37%",
     "time": 66,
     "timeDay": 122,
-    "timeWeek": 165,
+    "timeWeek": 164,
     "timeMonth": 192,
     "timeYear": 66,
     "dailyMinutesDown": {
